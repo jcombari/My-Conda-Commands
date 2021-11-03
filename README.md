@@ -35,7 +35,7 @@ In the command prompt: conda install r-essentials
 * Step 4: Download and Install Anaconda
 * Step 5: Create a new Notebook
 * Step 6: Write your Code
-* 
+
 
 
 
