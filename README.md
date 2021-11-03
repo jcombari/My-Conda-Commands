@@ -24,3 +24,19 @@
 
 In the command prompt: conda install r-essentials
 
+
+### [Steps to add Julia to Jupyter Notebook](https://datatofish.com/add-julia-to-jupyter/)
+
+* Step 1: Download and Install Julia
+* Step 2: Open the Julia Command-Line
+* Step 3: Add Julia to Jupyter Notebook 
+    * using Pkg
+    * Pkg.add("IJulia")
+* Step 4: Download and Install Anaconda
+* Step 5: Create a new Notebook
+* Step 6: Write your Code
+* 
+
+
+
+
