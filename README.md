@@ -13,7 +13,12 @@
 
     $ conda deactivate
     
+* JupyterLab can be installed 
+
+    $ install -c conda-forge jupyterlab
+
 * Get a list of all my environments Active environment shown with * conda info --envs conda info -e
+
 
 * Get a list of all my environments Active environment shown with * conda info --envs 
 
