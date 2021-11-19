@@ -29,7 +29,11 @@
 
 In the command prompt: conda install r-essentials
 
+### PYTUBE
 
+  $ sudo pip install pytube
+Aunque si prefieres puedes descargar los fuentes con git:  
+  $ git clone git://github.com/nficano/pytube.git
 ### [Steps to add Julia to Jupyter Notebook](https://datatofish.com/add-julia-to-jupyter/)
 
 * Step 1: Download and Install Julia
